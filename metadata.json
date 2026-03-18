@@ -1,0 +1,7 @@
+{
+  "name": "Ecrossmat - Premium Tech Shop",
+  "description": "A high-end e-commerce platform for premium electronics and lifestyle gadgets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
